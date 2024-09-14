@@ -25,7 +25,7 @@ module.exports = {
         plight:["Poppins-Light","sans-serif"],
         pregular:["Poppins-Regular", "sans-serif"],
         pmedium:["Poppins-Medium","sans-serif"],
-        psemibold:["Poppins-Semibold","sans-serif"],
+        psemibold:["Poppins-SemiBold","sans-serif"],
         pbold:["Poppins-Bold","sans-serif"],
         pextrabold:["Poppins-Extrabold","sans-serif"],
         pblack:["Poppins-Black","sans-serif"],
